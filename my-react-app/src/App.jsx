@@ -1,7 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
-import Portfolio from './Temp'
+import Portfolio from './portfolio'
 
 function App() {
   const [count, setCount] = useState(0)
